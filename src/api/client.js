@@ -1,4 +1,4 @@
-const BASE_URL = 'https://github.com/Doston409/music-platform-v2.git'
+const BASE_URL = 'https://revewan357.pythonanywhere.com/api/v1'
 
 function getHeaders() {
   const token = localStorage.getItem('access_token')
